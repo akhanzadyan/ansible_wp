@@ -12,5 +12,3 @@ mysql_password: "pumba"
 http_host: "127.0.0.1"
 http_conf: "home.conf"
 http_port: "80"
-
-#just added to test
